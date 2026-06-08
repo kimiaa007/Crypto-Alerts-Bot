@@ -5,8 +5,6 @@ Telegram bot for price alerts.
 - Volume alerts
 - Whale transaction alerts
 - Multi-exchange support
-
 ## Run
-
 ```bash
 python bot.py
