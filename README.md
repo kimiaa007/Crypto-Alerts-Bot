@@ -8,3 +8,4 @@ Telegram bot for price alerts.
 ## Run
 ```bash
 python bot.py
+ end
