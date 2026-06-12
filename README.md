@@ -9,7 +9,6 @@ Telegram bot for price alerts.
 ```bash
 python bot.py
 # E-commerce Store
-
 Full-featured online store.
 
 ## Features
