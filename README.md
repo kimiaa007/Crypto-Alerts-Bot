@@ -5,7 +5,6 @@ Telegram bot for price alerts.
 - Volume alerts
 - Whale transaction alerts
 - Multi-exchange support
-## 
 python bot.py
 # E-commerce Store
 Full-featured online store.
