@@ -20,5 +20,4 @@ Full-featured online store.
 - MongoDB
 - Stripe
 ## License
-MIT
 
