@@ -9,7 +9,7 @@ python bot.py
 # E-commerce Store
 Full-featured online store.
 ## Features
-- Product catalog
+-  catalog
 - Shopping cart
 - Payment gateway
 - Order management
